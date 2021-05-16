@@ -1,0 +1,66 @@
+.container {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.register-left {
+  width: 20%;
+  height: inherit;
+  background-image: url(../assets/left-bg.png);
+}
+
+.register-right {
+  width: 80%;
+  height: inherit;
+  padding: 2rem 4rem;
+  height: 100vh;
+  overflow: auto;
+}
+
+.title {
+  margin-bottom: 8px !important;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.top {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.input {
+  flex: 1;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+
+.address {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.addressline {
+  margin-right: 10px;
+  flex: 1;
+}
+
+.submit-button {
+  width: 500px;
+  margin: 48px 0px;
+}
+
+.contact {
+  display: flex;
+}
+
+.contact-input {
+  display: flex;
+}
+
+.state-select {
+  width: 100%;
+}

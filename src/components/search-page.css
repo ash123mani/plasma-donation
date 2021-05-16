@@ -1,0 +1,42 @@
+.search {
+  height: 100%;
+  width: 100%;
+  display: flex;
+}
+
+.search-left {
+  width: 20%;
+  height: inherit;
+  background-image: url(../assets/left-bg.png);
+}
+
+.search-right {
+  padding: 40px 80px;
+  width: 80%;
+  height: 100vh;
+  overflow: auto;
+}
+
+.input {
+  flex: 1;
+  margin-right: 12px;
+  margin-bottom: 12px;
+}
+
+.state-first {
+  margin-top: 8px;
+}
+
+.title {
+  margin-bottom: 8px !important;
+  font-weight: 500;
+  font-size: 16px;
+}
+
+.right-bottom {
+  margin-top: 24px;
+}
+
+.register-form {
+  margin-top: 40px;
+}

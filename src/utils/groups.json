@@ -1,0 +1,64 @@
+{
+  "groups": [
+    {
+      "code": "A",
+      "display": "Blood group A",
+      "definition": "Equivalent to snomed code 112144000"
+    },
+    {
+      "code": "A-",
+      "display": "Blood group A Rh(D) negative",
+      "definition": "Equivalent to snomed code 278152006"
+    },
+    {
+      "code": "A+",
+      "display": "Blood group A Rh(D) positive",
+      "definition": "Equivalent to snomed code 278149003"
+    },
+    {
+      "code": "AB",
+      "display": "Blood group B",
+      "definition": "Equivalent to snomed code 165743006"
+    },
+    {
+      "code": "AB-",
+      "display": "Blood group B Rh(D) negative",
+      "definition": "Equivalent to snomed code 278154007"
+    },
+    {
+      "code": "AB+",
+      "display": "Blood group B Rh(D) positive",
+      "definition": "Equivalent to snomed code 278151004"
+    },
+    {
+      "code": "B",
+      "display": "Blood group B",
+      "definition": "Equivalent to snomed code 112149005"
+    },
+    {
+      "code": "B-",
+      "display": "Blood group B Rh(D) negative",
+      "definition": "Equivalent to snomed code 278153001"
+    },
+    {
+      "code": "B+",
+      "display": "Blood group B Rh(D) positive",
+      "definition": "Equivalent to snomed code 278150003"
+    },
+    {
+      "code": "O",
+      "display": "Blood group O",
+      "definition": "Equivalent to snomed code 58460004"
+    },
+    {
+      "code": "O-",
+      "display": "Blood group O Rh(D) negative",
+      "definition": "Equivalent to snomed code 278148006"
+    },
+    {
+      "code": "O+",
+      "display": "Blood group O Rh(D) positive",
+      "definition": "Equivalent to snomed code 278147001"
+    }
+  ]
+}
