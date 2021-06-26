@@ -8,6 +8,7 @@
   width: 20%;
   height: inherit;
   background-image: url(../assets/left-bg.png);
+  background-size: cover;
 }
 
 .search-right {

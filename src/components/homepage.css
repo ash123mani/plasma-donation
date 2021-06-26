@@ -8,6 +8,7 @@
   width: 20%;
   height: inherit;
   background-image: url(../assets/left-bg.png);
+  background-size: cover;
 }
 
 .home-right {
@@ -20,6 +21,7 @@
   height: 100vh;
   overflow: auto;
   justify-content: space-between;
+  background-size: cover;
 }
 
 .middle {
