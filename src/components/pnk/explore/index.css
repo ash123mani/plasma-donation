@@ -1,0 +1,33 @@
+.explore {
+}
+
+.dummy-text {
+  font-size: 32px;
+  color: #c94b32;
+  display: flex;
+  justify-content: center;
+}
+
+.bg-section {
+  display: flex;
+  justify-content: center;
+  background-image: url("../assets/home-bg.svg");
+  height: 800px;
+  width: 1400px;
+  background-repeat: no-repeat;
+  margin: 0 auto;
+  margin-top: 80px;
+  position: relative;
+}
+
+.empty-phone {
+  position: absolute;
+  background-image: url("../assets/empty-phone.png");
+  background-repeat: no-repeat;
+  height: 800px;
+  width: 400px;
+}
+
+.phone-text {
+  position: absolute;
+}

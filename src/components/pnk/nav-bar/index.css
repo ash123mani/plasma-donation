@@ -1,0 +1,44 @@
+.nav {
+  display: flex;
+  align-items: center;
+  padding: 18px 30px;
+  justify-content: space-between;
+}
+
+.nav__left {
+  display: flex;
+  align-items: center;
+}
+
+.nav-tagline {
+  font-style: italic;
+  font-size: 16px;
+  color: #1b2b41;
+  margin-left: 32px;
+}
+
+.nav__right {
+  display: flex;
+  align-items: center;
+}
+
+.nav-lang {
+  display: flex;
+  align-items: center;
+}
+
+.nav-fr {
+  color: #c94b32;
+}
+
+.nav-seprator {
+  width: 1px;
+  height: 20px;
+  background-color: #c94b32;
+  margin: 0px 8px;
+}
+
+.nav-eng {
+  color: #c94b32;
+  opacity: 0.5;
+}
